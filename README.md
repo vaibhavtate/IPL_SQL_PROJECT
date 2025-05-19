@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/605c0ea3-0c4a-475d-9206-7c27f63bddb0)
+
+
+
+
+
+
 # 🏏 IPL SQL Data Analysis Project
 
 This project involves creating and analyzing a structured SQL database from IPL (Indian Premier League) data. The data includes match statistics, player performance, and seasonal awards like Orange Cap and Purple Cap.
